@@ -78,3 +78,10 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 1. Build job
 1. Check "console output"
 
+### 💡 Help/Suggestions or 🐛 Bugs
+
+Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation or solutions, we greatly value feedback and contributions from our community.
+
+### 🏷️ Metadata
+
+**Level**: 100
