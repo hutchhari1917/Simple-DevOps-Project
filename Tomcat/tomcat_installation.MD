@@ -14,8 +14,8 @@
    go to    $ cd apache-tomcat-8.5.35/bin
 1. give executing permissions to startup.sh and shutdown.sh which are under bin. 
    ```sh
-  $ chmod +x /opt/apache-tomcat-8.5.35/bin/startup.sh 
-  $ chmod +x /opt/apache-tomcat-8.5.35/bin/shutdown.sh
+   chmod +x /opt/apache-tomcat-8.5.35/bin/startup.sh 
+   chmod +x /opt/apache-tomcat-8.5.35/bin/shutdown.sh
    ```
 check the path $ echo$PATH
 1. create link files for tomcat startup.sh and shutdown.sh 
